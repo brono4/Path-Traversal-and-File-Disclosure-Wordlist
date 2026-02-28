@@ -124,7 +124,7 @@ You can use this wordlist with tools such as:
 Download the wordlist directly:
 
 ```bash
-wget https://raw.githubusercontent.com/your-username/Advanced-Traversal-LFI-Wordlist/main/traversal-lfi-wordlist.txt
+wget https://raw.githubusercontent.com/brono4/Path-Traversal-and-File-Disclosure-Wordlist/main/traversal-lfi-wordlist.txt
 ```
 
 After download, you’re ready to use it ✅
