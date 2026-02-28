@@ -138,9 +138,3 @@ With **ffuf**:
 ```bash
 ffuf -u https://target.com/page=FUZZ -w traversal-lfi-wordlist.txt
 ```
-
-Example:
-
-```bash
-ffuf -u https://target.com/page=FUZZ -w traversal-lfi-wordlist.txt
-```
